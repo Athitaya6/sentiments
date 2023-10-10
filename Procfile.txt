@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run sentiment.py
+web: sh setup.sh && streamlit run Home.py
