@@ -15,7 +15,7 @@ st.header("Athitaya Kakandee")
 
 lot3="https://lottie.host/57654ef5-32e3-448d-b5f6-ed845b245c93/nsc1xfV677.json"
 lottie3 = load_lottieurl(lot3)
-st_lottie(lottie3)
+#st_lottie(lottie3)
 
 col1, col2 = st.columns(2)
 with col1:
