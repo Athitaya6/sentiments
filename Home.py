@@ -12,7 +12,7 @@ def load_lottieurl(url: str):
     return r.json()
 st.header("การวิเคราะห์ความรู้สึกภาษาไทย")
 st.header("Athitaya Kakandee")
-st.image('./image/123456.jpg')
+st.image('./image/athitaya.jpg')
 
 lot3="https://lottie.host/2e099151-4397-40ad-ae7b-249bbaf1e8df/gluEhZplO8.json"
 lottie3 = load_lottieurl(lot3)
