@@ -4,8 +4,9 @@ import pythainlp
 from pythainlp.corpus.common import thai_stopwords
 from pythainlp import word_tokenize
 from wordcloud import WordCloud, STOPWORDS
-import matplotlib as plt
-
+#import matplotlib as plt
+import matplotlib.pyplot as plt
+import pickle
 
 
 column_names=["text"]
