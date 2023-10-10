@@ -14,7 +14,7 @@ st.header("การวิเคราะห์ความรู้สึกภ
 st.header("Athitaya Kakandee")
 st.image('./image/athitaya.jpg')
 
-lot3="https://lottie.host/2e099151-4397-40ad-ae7b-249bbaf1e8df/gluEhZplO8.json"
+lot3="https://lottie.host/a0850c6f-4af2-4e46-9801-923b0d5f7e21/eBad93dNWe.json"
 lottie3 = load_lottieurl(lot3)
 st_lottie(lottie3)
 st.balloons()
