@@ -1,0 +1,9 @@
+streamlit
+matplotlib
+numpy
+Pillow
+pandas
+pythainlp
+scikit-learn
+wordcloud
+sklearn
